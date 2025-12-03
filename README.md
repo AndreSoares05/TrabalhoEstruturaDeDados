@@ -173,7 +173,6 @@ Distância até E: 6
 ✅ Projeto atende critérios de nota 9 a 10
 
 🎬 Vídeo demonstrativo
-🔗 Link: ([https://youtu.be/zJ6n2ok1VPw])
-
+🔗 **Link do vídeo:**[COLE_AQUI_SEU_LINK_DO_YOUTUBE](https://youtu.be/zJ6n2ok1VPw)
 
 ✍️Disciplina de Estrutura de Dados – 2025
