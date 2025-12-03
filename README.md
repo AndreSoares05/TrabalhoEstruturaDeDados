@@ -169,16 +169,6 @@ Distância até B: 5
 Distância até C: 2
 Distância até D: 3
 Distância até E: 6
-✅ Requisitos atendidos (Checklist)
-Item	Status
-Estrutura de grafo	✅
-Operações básicas	✅
-Caso de uso	✅
-BFS	✅
-DFS	✅
-Dijkstra	✅
-README completo	✅
-Vídeo demonstrativo	✅
 
 ✅ Projeto atende critérios de nota 9 a 10
 
